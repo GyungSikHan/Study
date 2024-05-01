@@ -1,0 +1,27 @@
+- 정의
+    - 반사와 투과되는 양을 설명하는 것
+- 빛의 편광
+    - 빛(전자기파)은 전기장과 자기장이 서로 수직하게 진동하여 전자기파를 구성한다
+    - 진동방향이 입사 평면에 수직, 또는 수평이냐에 따라 수직편광(S-편광), 수평편광(P-편광)이라 한다
+    - ![](https://blog.kakaocdn.net/dn/dfxqCl/btsu7POd3O4/Vd0Pg1R8sZECzJLthtiMw1/img.png)
+    - 위의 그림에서 빛이 반사 또는 투과되는 서로 다른 매질의 표면에 대해 빛의 입사, 투과, 반사가 일어나는 평면을 입사평면(Plane of Incidemce)라 한다(빨간색 긴 화살표를 포함하는 평면)
+    - 빛의 이동경로인 빨간색 긴 화살표를 따라 전기장은 빛의 진행방향에 대해 입사평면과 수직인 짧은 파란색 화살표로 진동을 하거나 수평인 짧은 빨간색 화살표로 진동을 한다
+    - 이때 수직으로 진동하는 성분을 S-편광(TE), 수평으로 진동하는 편광을 P-편광(TM)이라 한다
+- 프레넬 방정식
+    
+    - 정의 
+        - 프레넬 방정식에서 편광을 얘기하는 이유는 S-편광, P-편광 성분의 반사, 투과되는 양이 다르기 때문이다
+        - 프레넬이 정리한 수식은 수직편광의 반사와 투과, 수평편광의 반사와 투과 총 4가지이다
+        - 반사되는 양을 결정하는 반사계수 r, 투과되는 양을 결정하는 투과계수를 t라고 하고 각각의 첨자 s,p는 수직,수평편광 성문을 의미하고, 첨자 i는 입사하는 매질, t는 투과하는 매질을 뜻한다
+    - 수직 편광 
+    - ![](https://blog.kakaocdn.net/dn/5FOeX/btsuTPaRRCc/DVgfKO7CSBt8miw8z95ctk/img.png)![](https://blog.kakaocdn.net/dn/baxs09/btsu197jMza/BCo1TwNT7m387cuHyYrJh0/img.png)
+    - 수평편광
+    - ![](https://blog.kakaocdn.net/dn/cguqni/btsu9SDTnDu/zaMGqrwWE5KjGojW3E3JUk/img.png)![](https://blog.kakaocdn.net/dn/bvj4oc/btsu0F6wQG6/Hssd7uAYnSkauvd9gFsD31/img.png)
+    - **중요 포인트!!**
+        - **수직, 수평 편광 성분의 반사 투과계수는 반사/투과가 일어나는 두 매질의 굴절률과 입사각에 의해 결정된다**
+    - 반사율, 투과율, 반사/흡수 계수
+    - ![](https://blog.kakaocdn.net/dn/wQUNN/btsuZTYero4/aQ3vgDPISnco5B7AC38Dh0/img.png)  
+        - 수직 수평 편광 성분을 함께 생각할 때 r,t는 모두 두 편광성분의 평균값을 사용한다
+        - 이때 **반사율과 투과율의 합은 1이라는 점으로 반사계수와 흡수 계수의 합은 1이 아니다!!**
+    
+    - 반사율이 높을 수록 투과율은 낮고 투과율이 높을수록 반사율이 높아 두개가 반비례 하는것을 알 수 있다

@@ -1,0 +1,10 @@
+- Easing Functions
+    - easing(timing이라고도 함)은 애니메이션을 더욱 부드럽고 편안한 느낌을 들게 만들어 사용자에게 편안한 느낌을 주고 전반적인 사용 환경을 개선해준다
+    - 짧게 유지할 수 있는 경우를 제외하고 ease-in 또는 ease-in-out 애니메이션을 피해야 사용자에게 굼 뜬 느낌을 주지 않을 수 있다
+- 키워드
+    - ease: 시작과 종료를 부드럽게
+    - linear: 일정
+    - ease-in: 서서히 시작
+    - ease-out: 서서히 종료
+    - ease-in-out: 서서히 시작하여 종료
+    - cubic-bezier(x1,y1,x2,y2): 3차 뱁지에 곡선의 P1과 P2를 (x1,y1,x2,y2)로 지정

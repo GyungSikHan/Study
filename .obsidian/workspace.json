@@ -1,0 +1,241 @@
+{
+  "main": {
+    "id": "8e68642e310276b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "e941d43c3e706c5a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2905ef68283c87fe",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Image/Pasted image 20240501182451.png"
+              }
+            }
+          },
+          {
+            "id": "eb1d52a74cc50290",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Image/Pasted image 20240501182508.png"
+              }
+            }
+          },
+          {
+            "id": "12af36c8f05e4830",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Image/Pasted image 20240501182451.png"
+              }
+            }
+          },
+          {
+            "id": "849dc0bf2f2be7a5",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Image/Pasted image 20240501182508.png"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4d0f49c7ba5782ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc94d24e8a7c2432",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "754dd38207fd92ef",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "996ae0a6d526d9f7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d46b785619a3129a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "c89af880cd40453b",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3741d07b48dd74c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "f29711a0e1502c13",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "00a6000bc274ccf6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Image/Pasted image 20240501182508.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c1c2f6aa4b99aaff",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Image/Pasted image 20240501182508.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e77c229b50d0e8f0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "06f90a6ea2f83a50",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Image/Pasted image 20240501182508.png"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "excel:Create Excel File": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "remotely-save:Remotely Save": false,
+      "obsidian-projects:Open projects": false,
+      "obsidian-file-cleaner:Clean files": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "754dd38207fd92ef",
+  "lastOpenFiles": [
+    "-",
+    "Study",
+    "Image/Pasted image 20240501182451.png",
+    "Image/Pasted image 20240501182508.png",
+    "DirectX/12. Grid 그리기.md",
+    "Image/Pasted image 20240501181439.png",
+    "DirectX/11.Index Buffer.md",
+    "Image/Pasted image 20240501182126.png",
+    "Image/Pasted image 20240501182112.png",
+    "Image/Pasted image 20240501181633.png",
+    "Image/Pasted image 20240501181614.png",
+    "DirectX/10.World 2.md",
+    "코딩 테스트/백준/27433_팩토리얼2.md",
+    "코딩 테스트/백준/26069_붙임성 좋은 총총이.md",
+    "코딩 테스트/백준/25501_재귀의 귀재.md",
+    "코딩 테스트/백준/24060_알고리즘 수업_병합 정렬 1.md",
+    "코딩 테스트/백준/10870_피보나치 수 5.md",
+    "코딩 테스트/백준/4779_칸토어 집합.md",
+    "코딩 테스트/백준/2108_통계학.md",
+    "Image/Pasted image 20240404191859.png",
+    "C++ Summary.md",
+    "Image/Pasted image 20240404173206.png",
+    "코딩 테스트/백준/9084_동전.md",
+    "코딩 테스트/백준/4485_녹색 옷 입은 애가 젤다지.md",
+    "코딩 테스트/백준/3665_최종 순위.md",
+    "코딩 테스트/백준/28279_덱2.md",
+    "코딩 테스트/백준/2747_피보나치 수.md",
+    "코딩 테스트/백준/25192_인사성 밝은 곰곰이.md",
+    "코딩 테스트/백준/24723_녹색거탑.md",
+    "코딩 테스트/백준/24511_queuestack.md",
+    "코딩 테스트/백준/2407_조합.md",
+    "코딩 테스트/백준/2346_풍선 터뜨리기.md",
+    "코딩 테스트/백준/2252_줄세우기.md",
+    "코딩 테스트/백준/2042_구간 합 구하기.md",
+    "코딩 테스트/백준/20040_사이클 게임.md",
+    "코딩 테스트/백준/1991_트리 순회.md",
+    "코딩 테스트/백준",
+    "코딩 테스트",
+    "자료구조/Doit",
+    "자료구조",
+    "오늘의 키워드",
+    "서적/이득우의 언리얼 C++",
+    "서적/Unreal C++",
+    "서적/C++기초플러스",
+    "서적",
+    "Image/Pasted image 20240404191449.png"
+  ]
+}
