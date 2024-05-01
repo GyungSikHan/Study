@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -160,7 +161,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "754dd38207fd92ef",
+  "active": "c89af880cd40453b",
   "lastOpenFiles": [
     "오늘의 키워드/가상 메모리.md",
     "DirectX/Drawing 2024-05-01 19.11.27.excalidraw.md",
