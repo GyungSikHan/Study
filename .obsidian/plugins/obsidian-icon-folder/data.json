@@ -5,7 +5,13 @@
     "fontSize": 16,
     "emojiStyle": "native",
     "iconColor": null,
-    "recentlyUsedIcons": [],
+    "recentlyUsedIcons": [
+      "TiBrandCpp",
+      "SiUnrealengine",
+      "SiTestcafe",
+      "CoData",
+      "BoBxsRocket"
+    ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
@@ -24,5 +30,13 @@
     "iconsInLinksEnabled": true,
     "iconIdentifier": ":",
     "debugMode": false
-  }
+  },
+  "서적": "CoBook",
+  "서적/이득우의 언리얼 C++": "TiBook",
+  "서적/C++기초플러스": "TiBook",
+  "서적/Unreal C++": "TiBook",
+  "오늘의 키워드": "BoBxsRocket",
+  "자료구조": "CoData",
+  "코딩 테스트": "TiBrandCpp",
+  "포트폴리오": "SiUnrealengine"
 }

@@ -4,51 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "e941d43c3e706c5a",
+        "id": "7a27725010aa6037",
         "type": "tabs",
         "children": [
           {
-            "id": "2905ef68283c87fe",
+            "id": "43ef8deb2bb27bf7",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Image/Pasted image 20240501182451.png"
-              }
-            }
-          },
-          {
-            "id": "eb1d52a74cc50290",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Image/Pasted image 20240501182508.png"
-              }
-            }
-          },
-          {
-            "id": "12af36c8f05e4830",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Image/Pasted image 20240501182451.png"
-              }
-            }
-          },
-          {
-            "id": "849dc0bf2f2be7a5",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Image/Pasted image 20240501182508.png"
+                "file": "오늘의 키워드/가상 메모리.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Image/Pasted image 20240501182508.png",
+                "file": "오늘의 키워드/가상 메모리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Image/Pasted image 20240501182508.png",
+                "file": "오늘의 키워드/가상 메모리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Image/Pasted image 20240501182508.png"
+                "file": "오늘의 키워드/가상 메모리.md"
               }
             }
           }
@@ -189,12 +160,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "754dd38207fd92ef",
+  "active": "43ef8deb2bb27bf7",
   "lastOpenFiles": [
+    "코딩 테스트/백준/4779_칸토어 집합.md",
+    "코딩 테스트/백준/2447_별 찍기 -10.md",
+    "Image/Pasted image 20240501182508.png",
     "-",
     "Study",
     "Image/Pasted image 20240501182451.png",
-    "Image/Pasted image 20240501182508.png",
     "DirectX/12. Grid 그리기.md",
     "Image/Pasted image 20240501181439.png",
     "DirectX/11.Index Buffer.md",
@@ -208,7 +181,6 @@
     "코딩 테스트/백준/25501_재귀의 귀재.md",
     "코딩 테스트/백준/24060_알고리즘 수업_병합 정렬 1.md",
     "코딩 테스트/백준/10870_피보나치 수 5.md",
-    "코딩 테스트/백준/4779_칸토어 집합.md",
     "코딩 테스트/백준/2108_통계학.md",
     "Image/Pasted image 20240404191859.png",
     "C++ Summary.md",
@@ -235,7 +207,6 @@
     "서적/이득우의 언리얼 C++",
     "서적/Unreal C++",
     "서적/C++기초플러스",
-    "서적",
     "Image/Pasted image 20240404191449.png"
   ]
 }
