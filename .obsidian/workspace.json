@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -155,18 +154,19 @@
       "command-palette:명령어 팔레트 열기": false,
       "excel:Create Excel File": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "remotely-save:Remotely Save": false,
       "obsidian-projects:Open projects": false,
       "obsidian-file-cleaner:Clean files": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "remotely-save:Remotely Save": false
     }
   },
-  "active": "c89af880cd40453b",
+  "active": "43ef8deb2bb27bf7",
   "lastOpenFiles": [
+    "코딩 테스트/백준/11050_이항계수1.md",
+    "코딩 테스트/백준/2447_별 찍기 -10.md",
     "오늘의 키워드/가상 메모리.md",
     "DirectX/Drawing 2024-05-01 19.11.27.excalidraw.md",
     "코딩 테스트/백준/4779_칸토어 집합.md",
-    "코딩 테스트/백준/2447_별 찍기 -10.md",
     "Image/Pasted image 20240501182508.png",
     "-",
     "Study",
@@ -199,7 +199,6 @@
     "코딩 테스트/백준/2407_조합.md",
     "코딩 테스트/백준/2346_풍선 터뜨리기.md",
     "코딩 테스트/백준/2252_줄세우기.md",
-    "코딩 테스트/백준/2042_구간 합 구하기.md",
     "코딩 테스트/백준",
     "코딩 테스트",
     "자료구조/Doit",
