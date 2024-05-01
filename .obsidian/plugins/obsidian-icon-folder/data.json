@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiBlueprint",
       "TiBrandCpp",
       "SiUnrealengine",
       "SiTestcafe",
-      "CoData",
-      "BoBxsRocket"
+      "CoData"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -38,5 +38,6 @@
   "오늘의 키워드": "BoBxsRocket",
   "자료구조": "CoData",
   "코딩 테스트": "TiBrandCpp",
-  "포트폴리오": "SiUnrealengine"
+  "포트폴리오": "SiUnrealengine",
+  "DirectX": "SiBlueprint"
 }

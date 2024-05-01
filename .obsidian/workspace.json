@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "오늘의 키워드/가상 메모리.md",
+                "file": "코딩 테스트/백준/2447_별 찍기 -10.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "오늘의 키워드/가상 메모리.md",
+                "file": "코딩 테스트/백준/2447_별 찍기 -10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "오늘의 키워드/가상 메모리.md",
+                "file": "코딩 테스트/백준/2447_별 찍기 -10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "오늘의 키워드/가상 메모리.md"
+                "file": "코딩 테스트/백준/2447_별 찍기 -10.md"
               }
             }
           }
@@ -160,8 +160,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "43ef8deb2bb27bf7",
+  "active": "754dd38207fd92ef",
   "lastOpenFiles": [
+    "오늘의 키워드/가상 메모리.md",
+    "DirectX/Drawing 2024-05-01 19.11.27.excalidraw.md",
     "코딩 테스트/백준/4779_칸토어 집합.md",
     "코딩 테스트/백준/2447_별 찍기 -10.md",
     "Image/Pasted image 20240501182508.png",
@@ -197,8 +199,6 @@
     "코딩 테스트/백준/2346_풍선 터뜨리기.md",
     "코딩 테스트/백준/2252_줄세우기.md",
     "코딩 테스트/백준/2042_구간 합 구하기.md",
-    "코딩 테스트/백준/20040_사이클 게임.md",
-    "코딩 테스트/백준/1991_트리 순회.md",
     "코딩 테스트/백준",
     "코딩 테스트",
     "자료구조/Doit",
