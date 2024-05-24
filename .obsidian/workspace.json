@@ -155,7 +155,9 @@
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
       "excel:Create Excel File": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-projects:Open projects": false,
+      "obsidian-file-cleaner:Clean files": false
     }
   },
   "active": "c89af880cd40453b",
