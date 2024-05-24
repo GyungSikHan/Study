@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7a27725010aa6037",
+        "id": "9b296b97bc9a5732",
         "type": "tabs",
         "children": [
           {
-            "id": "43ef8deb2bb27bf7",
+            "id": "a29b898ea2efa043",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "코딩 테스트/백준/2447_별 찍기 -10.md",
+                "file": "코딩 테스트/백준/15649_N과 M(1).md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "코딩 테스트/백준/2447_별 찍기 -10.md",
+                "file": "코딩 테스트/백준/15649_N과 M(1).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "코딩 테스트/백준/2447_별 찍기 -10.md",
+                "file": "코딩 테스트/백준/15649_N과 M(1).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,11 +134,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "코딩 테스트/백준/2447_별 찍기 -10.md"
+                "file": "코딩 테스트/백준/15649_N과 M(1).md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -153,20 +155,22 @@
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
       "excel:Create Excel File": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-projects:Open projects": false,
-      "obsidian-file-cleaner:Clean files": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "remotely-save:Remotely Save": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "43ef8deb2bb27bf7",
+  "active": "c89af880cd40453b",
   "lastOpenFiles": [
-    "코딩 테스트/백준/11050_이항계수1.md",
+    "자료구조/Doit/15. BFS(너비 우선 탐색).md",
+    "코딩 테스트/백준/15649_N과 M(1).md",
+    "코딩 테스트/백준/11729_하노이탑.md",
     "코딩 테스트/백준/2447_별 찍기 -10.md",
+    "코딩 테스트/백준/4779_칸토어 집합.md",
+    "무제 파일.canvas",
+    "코딩 테스트/백준/2346_풍선 터뜨리기.md",
+    "코딩 테스트/백준/2108_통계학.md",
+    "코딩 테스트/백준/11050_이항계수1.md",
     "오늘의 키워드/가상 메모리.md",
     "DirectX/Drawing 2024-05-01 19.11.27.excalidraw.md",
-    "코딩 테스트/백준/4779_칸토어 집합.md",
     "Image/Pasted image 20240501182508.png",
     "-",
     "Study",
@@ -184,7 +188,6 @@
     "코딩 테스트/백준/25501_재귀의 귀재.md",
     "코딩 테스트/백준/24060_알고리즘 수업_병합 정렬 1.md",
     "코딩 테스트/백준/10870_피보나치 수 5.md",
-    "코딩 테스트/백준/2108_통계학.md",
     "Image/Pasted image 20240404191859.png",
     "C++ Summary.md",
     "Image/Pasted image 20240404173206.png",
@@ -195,10 +198,6 @@
     "코딩 테스트/백준/2747_피보나치 수.md",
     "코딩 테스트/백준/25192_인사성 밝은 곰곰이.md",
     "코딩 테스트/백준/24723_녹색거탑.md",
-    "코딩 테스트/백준/24511_queuestack.md",
-    "코딩 테스트/백준/2407_조합.md",
-    "코딩 테스트/백준/2346_풍선 터뜨리기.md",
-    "코딩 테스트/백준/2252_줄세우기.md",
     "코딩 테스트/백준",
     "코딩 테스트",
     "자료구조/Doit",
