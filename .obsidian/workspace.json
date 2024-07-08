@@ -1,31 +1,19 @@
 {
   "main": {
-    "id": "8e68642e310276b9",
+    "id": "263cc3e93cfa80a2",
     "type": "split",
     "children": [
       {
-<<<<<<< Updated upstream
-        "id": "9b296b97bc9a5732",
+        "id": "260b336743907afa",
         "type": "tabs",
         "children": [
           {
-            "id": "a29b898ea2efa043",
-=======
-        "id": "2d05d71c3fef5d24",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0d4ec2988c515f62",
->>>>>>> Stashed changes
+            "id": "b9ea61516fb1eaa9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< Updated upstream
-                "file": "코딩 테스트/백준/15649_N과 M(1).md",
-=======
-                "file": "코딩 테스트/백준/14889_스타트와 링크.md",
->>>>>>> Stashed changes
+                "file": "코딩 테스트/백준/1904_01타일.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "4d0f49c7ba5782ee",
+    "id": "3b4b65ebfbb7f19a",
     "type": "split",
     "children": [
       {
-        "id": "fc94d24e8a7c2432",
+        "id": "f57102e334367a56",
         "type": "tabs",
         "children": [
           {
-            "id": "754dd38207fd92ef",
+            "id": "87566efed935f1aa",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -55,12 +43,12 @@
             }
           },
           {
-            "id": "996ae0a6d526d9f7",
+            "id": "04c0ac51e5e8b91e",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "백트",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +58,7 @@
             }
           },
           {
-            "id": "d46b785619a3129a",
+            "id": "260ccb544f767e48",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,39 +66,34 @@
             }
           },
           {
-            "id": "c89af880cd40453b",
+            "id": "2e328e97ef6928d6",
             "type": "leaf",
             "state": {
               "type": "recent-files",
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "right": {
-    "id": "3741d07b48dd74c4",
+    "id": "f0f318246de2ecc8",
     "type": "split",
     "children": [
       {
-        "id": "f29711a0e1502c13",
+        "id": "d1af913504d07f7c",
         "type": "tabs",
         "children": [
           {
-            "id": "00a6000bc274ccf6",
+            "id": "53a5ac0f9f10ae9b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< Updated upstream
-                "file": "코딩 테스트/백준/15649_N과 M(1).md",
-=======
-                "file": "코딩 테스트/백준/14889_스타트와 링크.md",
->>>>>>> Stashed changes
+                "file": "코딩 테스트/백준/1904_01타일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,23 +105,19 @@
             }
           },
           {
-            "id": "c1c2f6aa4b99aaff",
+            "id": "fe7890836cb5f014",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< Updated upstream
-                "file": "코딩 테스트/백준/15649_N과 M(1).md",
-=======
-                "file": "코딩 테스트/백준/14889_스타트와 링크.md",
->>>>>>> Stashed changes
+                "file": "코딩 테스트/백준/1904_01타일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "e77c229b50d0e8f0",
+            "id": "7169e0cd0823faa3",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -149,21 +128,16 @@
             }
           },
           {
-            "id": "06f90a6ea2f83a50",
+            "id": "c669df4387a6625e",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< Updated upstream
-                "file": "코딩 테스트/백준/15649_N과 M(1).md"
-=======
-                "file": "코딩 테스트/백준/14889_스타트와 링크.md"
->>>>>>> Stashed changes
+                "file": "코딩 테스트/백준/1904_01타일.md"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -172,86 +146,27 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "excel:Create Excel File": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-projects:Open projects": false,
+      "obsidian-file-cleaner:Clean files": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:퀵 스위처 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "excel:Create Excel File": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-projects:Open projects": false,
-      "obsidian-file-cleaner:Clean files": false
+      "remotely-save:Remotely Save": false
     }
   },
-<<<<<<< Updated upstream
-  "active": "c89af880cd40453b",
+  "active": "b9ea61516fb1eaa9",
   "lastOpenFiles": [
-    "자료구조/Doit/15. BFS(너비 우선 탐색).md",
-    "코딩 테스트/백준/15649_N과 M(1).md",
-    "코딩 테스트/백준/11729_하노이탑.md",
-    "코딩 테스트/백준/2447_별 찍기 -10.md",
-    "코딩 테스트/백준/4779_칸토어 집합.md",
-    "무제 파일.canvas",
-    "코딩 테스트/백준/2346_풍선 터뜨리기.md",
-    "코딩 테스트/백준/2108_통계학.md",
-=======
-  "active": "0d4ec2988c515f62",
-  "lastOpenFiles": [
-    "코딩 테스트/백준/14888_연산자 끼워넣기.md",
-    "코딩 테스트/백준/14889_스타트와 링크.md",
-    "자료구조/Doit/14. DFS(깊이 우선 탐색).md",
-    "자료구조/Doit/03. 스택과 큐.md",
-    "자료구조/자료구조 Summary.md",
-    "자료구조/Doit/15. BFS(너비 우선 탐색).md",
-    "코딩 테스트/백준/11729_하노이탑.md",
-    "무제 파일.canvas",
-    "코딩 테스트/백준/15649_N과 M(1).md",
-    "코딩 테스트/백준/4779_칸토어 집합.md",
-    "자료구조/Doit/34. 동적 계획법.md",
-    "코딩 테스트/백준/2447_별 찍기 -10.md",
-    "C++ Summary.md",
->>>>>>> Stashed changes
-    "코딩 테스트/백준/11050_이항계수1.md",
-    "오늘의 키워드/가상 메모리.md",
-    "DirectX/Drawing 2024-05-01 19.11.27.excalidraw.md",
-    "Image/Pasted image 20240501182508.png",
-    "-",
-    "Study",
-    "Image/Pasted image 20240501182451.png",
-    "DirectX/12. Grid 그리기.md",
-    "Image/Pasted image 20240501181439.png",
-    "DirectX/11.Index Buffer.md",
-    "Image/Pasted image 20240501182126.png",
-    "Image/Pasted image 20240501182112.png",
-    "Image/Pasted image 20240501181633.png",
-    "Image/Pasted image 20240501181614.png",
-    "DirectX/10.World 2.md",
-    "코딩 테스트/백준/27433_팩토리얼2.md",
-    "코딩 테스트/백준/26069_붙임성 좋은 총총이.md",
-    "코딩 테스트/백준/25501_재귀의 귀재.md",
-    "코딩 테스트/백준/24060_알고리즘 수업_병합 정렬 1.md",
-    "코딩 테스트/백준/10870_피보나치 수 5.md",
-    "Image/Pasted image 20240404191859.png",
-    "Image/Pasted image 20240404173206.png",
-    "코딩 테스트/백준/9084_동전.md",
-    "코딩 테스트/백준/4485_녹색 옷 입은 애가 젤다지.md",
-<<<<<<< Updated upstream
-    "코딩 테스트/백준/3665_최종 순위.md",
-    "코딩 테스트/백준/28279_덱2.md",
-    "코딩 테스트/백준/2747_피보나치 수.md",
-    "코딩 테스트/백준/25192_인사성 밝은 곰곰이.md",
-    "코딩 테스트/백준/24723_녹색거탑.md",
-=======
->>>>>>> Stashed changes
-    "코딩 테스트/백준",
-    "코딩 테스트",
-    "자료구조/Doit",
-    "자료구조",
-    "오늘의 키워드",
-    "서적/이득우의 언리얼 C++",
-    "서적/Unreal C++",
-    "서적/C++기초플러스",
-    "Image/Pasted image 20240404191449.png"
+    "코딩 테스트/백준/9184_신나는 함수 실행.md",
+    "코딩 테스트/백준/1904_01타일.md",
+    "코딩 테스트/백준/24416_알고리즘 수업 - 피보나치 수 1.md",
+    "코딩 테스트/백준/2580_스도쿠.md",
+    "코딩 테스트/백준/9663_N-Queen.md",
+    "Pasted image 20240707205316.png"
   ]
 }

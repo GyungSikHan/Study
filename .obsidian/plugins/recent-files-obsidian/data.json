@@ -1,118 +1,25 @@
 {
   "recentFiles": [
     {
-<<<<<<< Updated upstream
-      "basename": "15649_N과 M(1)",
-      "path": "코딩 테스트/백준/15649_N과 M(1).md"
-=======
-      "basename": "14889_스타트와 링크",
-      "path": "코딩 테스트/백준/14889_스타트와 링크.md"
+      "basename": "1904_01타일",
+      "path": "코딩 테스트/백준/1904_01타일.md"
     },
     {
-      "basename": "14888_연산자 끼워넣기",
-      "path": "코딩 테스트/백준/14888_연산자 끼워넣기.md"
+      "basename": "9184_신나는 함수 실행",
+      "path": "코딩 테스트/백준/9184_신나는 함수 실행.md"
     },
     {
-      "basename": "14. DFS(깊이 우선 탐색)",
-      "path": "자료구조/Doit/14. DFS(깊이 우선 탐색).md"
+      "basename": "24416_알고리즘 수업 - 피보나치 수 1",
+      "path": "코딩 테스트/백준/24416_알고리즘 수업 - 피보나치 수 1.md"
     },
     {
-      "basename": "03. 스택과 큐",
-      "path": "자료구조/Doit/03. 스택과 큐.md"
+      "basename": "2580_스도쿠",
+      "path": "코딩 테스트/백준/2580_스도쿠.md"
     },
     {
-      "basename": "자료구조 Summary",
-      "path": "자료구조/자료구조 Summary.md"
->>>>>>> Stashed changes
-    },
-    {
-      "basename": "15. BFS(너비 우선 탐색)",
-      "path": "자료구조/Doit/15. BFS(너비 우선 탐색).md"
-    },
-    {
-<<<<<<< Updated upstream
-      "basename": "11729_하노이탑",
-      "path": "코딩 테스트/백준/11729_하노이탑.md"
-=======
-      "basename": "15649_N과 M(1)",
-      "path": "코딩 테스트/백준/15649_N과 M(1).md"
-    },
-    {
-      "basename": "4779_칸토어 집합",
-      "path": "코딩 테스트/백준/4779_칸토어 집합.md"
-    },
-    {
-      "basename": "34. 동적 계획법",
-      "path": "자료구조/Doit/34. 동적 계획법.md"
->>>>>>> Stashed changes
-    },
-    {
-      "basename": "2447_별 찍기 -10",
-      "path": "코딩 테스트/백준/2447_별 찍기 -10.md"
-    },
-    {
-<<<<<<< Updated upstream
-      "basename": "4779_칸토어 집합",
-      "path": "코딩 테스트/백준/4779_칸토어 집합.md"
-    },
-    {
-      "basename": "무제 파일",
-      "path": "무제 파일.canvas"
-    },
-    {
-      "basename": "2346_풍선 터뜨리기",
-      "path": "코딩 테스트/백준/2346_풍선 터뜨리기.md"
-    },
-    {
-      "basename": "2108_통계학",
-      "path": "코딩 테스트/백준/2108_통계학.md"
-=======
-      "basename": "C++ Summary",
-      "path": "C++ Summary.md"
->>>>>>> Stashed changes
-    },
-    {
-      "basename": "11050_이항계수1",
-      "path": "코딩 테스트/백준/11050_이항계수1.md"
-    },
-    {
-      "basename": "가상 메모리",
-      "path": "오늘의 키워드/가상 메모리.md"
-    },
-    {
-      "basename": "Pasted image 20240501182508",
-      "path": "Image/Pasted image 20240501182508.png"
-    },
-    {
-      "basename": "Pasted image 20240501182451",
-      "path": "Image/Pasted image 20240501182451.png"
-    },
-    {
-      "basename": "12. Grid 그리기",
-      "path": "DirectX/12. Grid 그리기.md"
-    },
-    {
-      "basename": "Pasted image 20240501181439",
-      "path": "Image/Pasted image 20240501181439.png"
-    },
-    {
-      "basename": "11.Index Buffer",
-      "path": "DirectX/11.Index Buffer.md"
-    },
-    {
-      "basename": "10.World 2",
-      "path": "DirectX/10.World 2.md"
-    },
-    {
-      "basename": "Pasted image 20240404191859",
-      "path": "Image/Pasted image 20240404191859.png"
-    },
-    {
-      "basename": "Pasted image 20240404173206",
-      "path": "Image/Pasted image 20240404173206.png"
+      "basename": "9663_N-Queen",
+      "path": "코딩 테스트/백준/9663_N-Queen.md"
     }
   ],
-  "omittedPaths": [],
-  "maxLength": null,
-  "openType": "tab"
+  "omittedPaths": []
 }
