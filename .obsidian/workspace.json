@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "코딩 테스트/백준/1904_01타일.md",
+                "file": "코딩 테스트/백준/10844_쉬운 계단 수.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "코딩 테스트/백준/1904_01타일.md",
+                "file": "코딩 테스트/백준/10844_쉬운 계단 수.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "코딩 테스트/백준/1904_01타일.md",
+                "file": "코딩 테스트/백준/10844_쉬운 계단 수.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "코딩 테스트/백준/1904_01타일.md"
+                "file": "코딩 테스트/백준/10844_쉬운 계단 수.md"
               }
             }
           }
@@ -162,8 +162,16 @@
   },
   "active": "b9ea61516fb1eaa9",
   "lastOpenFiles": [
-    "코딩 테스트/백준/9184_신나는 함수 실행.md",
+    "코딩 테스트/백준/1463_1로 만들기.md",
+    "코딩 테스트/백준/10844_쉬운 계단 수.md",
+    "코딩 테스트/백준/2579_계단 오르기.md",
+    "코딩 테스트/백준/1932_정수 삼각형.md",
+    "자료구조/Doit/14. 깊이 우선 탐색(DFS).md",
+    "코딩 테스트/백준/1149_RGB 거리.md",
+    "코딩 테스트/백준/1912_연속합.md",
+    "코딩 테스트/백준/9461_파도반 수열.md",
     "코딩 테스트/백준/1904_01타일.md",
+    "코딩 테스트/백준/9184_신나는 함수 실행.md",
     "코딩 테스트/백준/24416_알고리즘 수업 - 피보나치 수 1.md",
     "코딩 테스트/백준/2580_스도쿠.md",
     "코딩 테스트/백준/9663_N-Queen.md",
