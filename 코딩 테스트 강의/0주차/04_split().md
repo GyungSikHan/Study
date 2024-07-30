@@ -35,3 +35,10 @@ vector split(const string& input, string delimiter)
 	return result; 
 }
 ```
+- reverse
+	-  원래 문자열을 반대로 바꿔버린다
+- substr
+	-   처음 들어온 인자 값부터 시작해서 두 번째 인자로 들어온 수만큼 문자열을 뽑아낸다
+	- 두 번째 인자 값이 없으면 문자열의 끝까지 뽑아낸다
+- find:
+	- 어떠한 문자열이 들어있는지 찾아낸다
