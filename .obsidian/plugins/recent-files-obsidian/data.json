@@ -1,8 +1,128 @@
 {
   "recentFiles": [
     {
+      "basename": "14_트리순회",
+      "path": "코딩 테스트 강의/2주차/14_트리순회.md"
+    },
+    {
+      "basename": "Pasted image 20240819184211",
+      "path": "Image/Pasted image 20240819184211.png"
+    },
+    {
+      "basename": "Pasted image 20240819154948",
+      "path": "Image/Pasted image 20240819154948.png"
+    },
+    {
+      "basename": "Pasted image 20240819184215",
+      "path": "Image/Pasted image 20240819184215.png"
+    },
+    {
+      "basename": "13_DFS와 BFS 차이",
+      "path": "코딩 테스트 강의/2주차/13_DFS와 BFS 차이.md"
+    },
+    {
+      "basename": "12_너비 우선 탐색(BFS)",
+      "path": "코딩 테스트 강의/2주차/12_너비 우선 탐색(BFS).md"
+    },
+    {
+      "basename": "11_깊이 우선 탐색(DFS)",
+      "path": "코딩 테스트 강의/2주차/11_깊이 우선 탐색(DFS).md"
+    },
+    {
+      "basename": "09_맵과 방향 벡터",
+      "path": "코딩 테스트 강의/2주차/09_맵과 방향 벡터.md"
+    },
+    {
+      "basename": "10_연결 컴포넌트",
+      "path": "코딩 테스트 강의/2주차/10_연결 컴포넌트.md"
+    },
+    {
+      "basename": "19_Baek_4375 1",
+      "path": "코딩 테스트 강의/1주차/19_Baek_4375 1.md"
+    },
+    {
+      "basename": "Pasted image 20240808134723",
+      "path": "Image/Pasted image 20240808134723.png"
+    },
+    {
+      "basename": "08_인접 행렬과 인접 리스트의 차이",
+      "path": "코딩 테스트 강의/2주차/08_인접 행렬과 인접 리스트의 차이.md"
+    },
+    {
+      "basename": "07_인접 리스트",
+      "path": "코딩 테스트 강의/2주차/07_인접 리스트.md"
+    },
+    {
+      "basename": "05_인접 행렬",
+      "path": "코딩 테스트 강의/2주차/05_인접 행렬.md"
+    },
+    {
+      "basename": "18_Baek_1629 곱셈",
+      "path": "코딩 테스트 강의/1주차/18_Baek_1629 곱셈.md"
+    },
+    {
+      "basename": "17_Baek_3986 좋은단어",
+      "path": "코딩 테스트 강의/1주차/17_Baek_3986 좋은단어.md"
+    },
+    {
+      "basename": "16_Baek_1940 주몽",
+      "path": "코딩 테스트 강의/1주차/16_Baek_1940 주몽.md"
+    },
+    {
+      "basename": "04_이진 탐색트리(Binary Search Tree)",
+      "path": "코딩 테스트 강의/2주차/04_이진 탐색트리(Binary Search Tree).md"
+    },
+    {
+      "basename": "Pasted image 20240807142839",
+      "path": "Image/Pasted image 20240807142839.png"
+    },
+    {
+      "basename": "03_이진트리(Binnary Tree)",
+      "path": "코딩 테스트 강의/2주차/03_이진트리(Binnary Tree).md"
+    },
+    {
+      "basename": "02_트리(Tree)",
+      "path": "코딩 테스트 강의/2주차/02_트리(Tree).md"
+    },
+    {
+      "basename": "01_그래프 이론",
+      "path": "코딩 테스트 강의/2주차/01_그래프 이론.md"
+    },
+    {
+      "basename": "03_조합",
+      "path": "코딩 테스트 강의/0주차/03_조합.md"
+    },
+    {
+      "basename": "15_Baek_1213 팰린드롬 만들기",
+      "path": "코딩 테스트 강의/1주차/15_Baek_1213 팰린드롬 만들기.md"
+    },
+    {
+      "basename": "Pasted image 20240724150044",
+      "path": "Image/Pasted image 20240724150044.png"
+    },
+    {
+      "basename": "14_Baek_9375 패션왕 신해빈",
+      "path": "코딩 테스트 강의/1주차/14_Baek_9375 패션왕 신해빈.md"
+    },
+    {
+      "basename": "13_Baek_1620 나는야 포켓몬 마스터 이다솜",
+      "path": "코딩 테스트 강의/1주차/13_Baek_1620 나는야 포켓몬 마스터 이다솜.md"
+    },
+    {
+      "basename": "04_split()",
+      "path": "코딩 테스트 강의/0주차/04_split().md"
+    },
+    {
+      "basename": "11_Back_9996 한국이 그리울 땐 서버에 접속하지",
+      "path": "코딩 테스트 강의/1주차/11_Back_9996 한국이 그리울 땐 서버에 접속하지.md"
+    },
+    {
       "basename": "12_Baek_2559 수열",
       "path": "코딩 테스트 강의/1주차/12_Baek_2559 수열.md"
+    },
+    {
+      "basename": "10_Back_11655 ROT13",
+      "path": "코딩 테스트 강의/1주차/10_Back_11655 ROT13.md"
     },
     {
       "basename": "03_누적 합",
@@ -15,18 +135,6 @@
     {
       "basename": "04_문제 푸는 방법",
       "path": "코딩 테스트 강의/1주차/04_문제 푸는 방법.md"
-    },
-    {
-      "basename": "03_조합",
-      "path": "코딩 테스트 강의/0주차/03_조합.md"
-    },
-    {
-      "basename": "04_split()",
-      "path": "코딩 테스트 강의/0주차/04_split().md"
-    },
-    {
-      "basename": "10_Back_11655 ROT13",
-      "path": "코딩 테스트 강의/1주차/10_Back_11655 ROT13.md"
     },
     {
       "basename": "09_Back_1159 농구 경기",
@@ -91,22 +199,6 @@
     {
       "basename": "1904_01타일",
       "path": "코딩 테스트/백준/1904_01타일.md"
-    },
-    {
-      "basename": "9184_신나는 함수 실행",
-      "path": "코딩 테스트/백준/9184_신나는 함수 실행.md"
-    },
-    {
-      "basename": "24416_알고리즘 수업 - 피보나치 수 1",
-      "path": "코딩 테스트/백준/24416_알고리즘 수업 - 피보나치 수 1.md"
-    },
-    {
-      "basename": "2580_스도쿠",
-      "path": "코딩 테스트/백준/2580_스도쿠.md"
-    },
-    {
-      "basename": "9663_N-Queen",
-      "path": "코딩 테스트/백준/9663_N-Queen.md"
     }
   ],
   "omittedPaths": []

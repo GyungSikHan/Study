@@ -1,0 +1,8 @@
+- 정의
+	- 노드의 자식 노드의 수가 2개 이하로 이뤄진 트리
+	- 종류![[Pasted image 20240807142839.png]]
+		- 정이진 트리(full binary tree): 자식 노드가 0 또는 2개인 이진트리
+		- 완전 이진트리(complete binary tree): 왼쪽에서부터 채워져 있는 이진 트리로, 마지막 레벨을 제외하고는 모든 레벨이 완전히 채워져 있어야 하며 마지막 레벨의 경우 왼쪽부터 채워져야 한다
+		- 변질 이진트리(degenerate binary tree): 자식 노드가 하나뿐인 이진트리
+		- 포화 이진트리(prefect binary tree): 모든 노드가 꽉 차있는 이진트리
+		- <font color="#ffff00">균형 이진트리(balanced binary tree): 모든 노드의 왼쪽 하위 트리와 오른쪽 하위 트리의 차이가 1 이하인 트리. map,set을 구성하는 레드 블랙 트리라는 균형 이진 트리중 하나이다 </font>
