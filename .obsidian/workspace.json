@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b9ea61516fb1eaa9",
+            "id": "e639b7a469ce4d63",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "코딩 테스트 강의/1주차/12_Baek_2559 수열.md",
+                "file": "이득우 Unreal C++/Part 01/02 Unreal C++ 코딩 표준.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "코딩 테스트 강의/1주차/12_Baek_2559 수열.md",
+                "file": "이득우 Unreal C++/Part 01/02 Unreal C++ 코딩 표준.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "코딩 테스트 강의/1주차/12_Baek_2559 수열.md",
+                "file": "이득우 Unreal C++/Part 01/02 Unreal C++ 코딩 표준.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "코딩 테스트 강의/1주차/12_Baek_2559 수열.md"
+                "file": "이득우 Unreal C++/Part 01/02 Unreal C++ 코딩 표준.md"
               }
             }
           }
@@ -160,41 +160,52 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "b9ea61516fb1eaa9",
+  "active": "e639b7a469ce4d63",
   "lastOpenFiles": [
-    "코딩 테스트 강의/1주차/11_Back_9996.md",
-    "코딩 테스트 강의/1주차/03_누적 합.md",
-    "코딩 테스트 강의/0주차/02_순열.md",
-    "코딩 테스트 강의/1주차/12_Baek_2559 수열.md",
-    "코딩 테스트 강의/1주차/11_Back_9996 한국이 그리울 땐 서버에 접속하지.md",
-    "코딩 테스트 강의/1주차/04_문제 푸는 방법.md",
-    "코딩 테스트 강의/0주차/03_조합.md",
-    "코딩 테스트 강의/0주차/04_split().md",
-    "코딩 테스트 강의/1주차/10_Back_11655 ROT13.md",
-    "코딩 테스트 강의/1주차/09_Back_1159 농구 경기.md",
-    "코딩 테스트 강의/1주차/08_Back_10988 팰린드롬인지 확인하기.md",
-    "코딩 테스트 강의/1주차/07_Back_2979 트럭주차.md",
-    "코딩 테스트 강의/0주차/01_재귀 함수.md",
-    "코딩 테스트 강의/1주차/06_Back_10808 알파벳 갯수.md",
+    "이득우 Unreal C++/Part 01/03_언리얼 C++ 기본 타입과 문자열 처리.md",
+    "이득우 Unreal C++/Part 01/01 헬로우 언리얼(Hello Unreal!).md",
+    "이득우 Unreal C++/Part 01/02 Unreal C++ 코딩 표준.md",
+    "Image/Pasted image 20240830192559.png",
+    "Image/Pasted image 20240830193422.png",
+    "Image/Pasted image 20240830192701.png",
+    "코딩 테스트 강의/2주차/07_인접 리스트.md",
+    "이득우 Unreal C++/Part 01",
+    "이득우 Unreal C++",
+    "코딩 테스트 강의/2주차/22_Baek_4659 비밀번호 발음하기.md",
+    "코딩 테스트 강의/2주차/21_Baek_2910 빈도 정렬.md",
+    "코딩 테스트 강의/2주차/20_Baek_2828 사과담기 게임.md",
+    "코딩 테스트 강의/2주차/19_Baek_1992 쿼드트리.md",
+    "코딩 테스트 강의/2주차/18_Baek_2583 영역 구하기.md",
+    "코딩 테스트 강의/2주차/10_연결 컴포넌트.md",
+    "코딩 테스트 강의/2주차/09_맵과 방향 벡터.md",
+    "코딩 테스트 강의/2주차/05_인접 행렬.md",
+    "코딩 테스트 강의/2주차/04_이진 탐색트리(Binary Search Tree).md",
+    "코딩 테스트 강의/2주차/03_이진트리(Binnary Tree).md",
+    "코딩 테스트 강의/2주차/02_트리(Tree).md",
+    "코딩 테스트 강의/1주차/19_Baek_4375 1.md",
+    "코딩 테스트 강의/2주차/15_Baek_2178 미로탐색.md",
+    "코딩 테스트 강의/2주차/13_DFS와 BFS 차이.md",
+    "코딩 테스트 강의/2주차/14_트리순회.md",
+    "코딩 테스트 강의/2주차/17_Baek_2468 안전영역.md",
+    "코딩 테스트 강의/2주차/16_Baek_1012 유기농 배추.md",
+    "코딩 테스트 강의/2주차/11_깊이 우선 탐색(DFS).md",
+    "코딩 테스트 강의/2주차/08_인접 행렬과 인접 리스트의 차이.md",
+    "코딩 테스트 강의/2주차/12_너비 우선 탐색(BFS).md",
+    "코딩 테스트 강의/1주차/17_Baek_3986 좋은단어.md",
+    "Image/Pasted image 20240819184215.png",
+    "Image/Pasted image 20240819154948.png",
+    "Image/Pasted image 20240819184211.png",
+    "코딩 테스트 강의/1주차/16_Baek_1940 주몽.md",
+    "Image/Pasted image 20240808141653.png",
+    "Image/Pasted image 20240808134723.png",
+    "Image/Pasted image 20240808141657.png",
+    "Image/Pasted image 20240808142900.png",
+    "코딩 테스트 강의/2주차",
     "코딩 테스트 강의/0주차",
-    "코딩 테스트 강의/1주차/05_Back_2309 일곱 난쟁이.md",
-    "코딩 테스트 강의/1주차/02_공간 복잡도.md",
-    "코딩 테스트 강의/1주차/01_시간 복잡도.md",
-    "Pasted image 20240724150044.png",
     "코딩 테스트 강의/0주차",
     "Image/무제 파일.canvas",
     "무제 파일.canvas",
-    "코딩 테스트/백준/10844_쉬운 계단 수.md",
     "코딩 테스트 강의/1주차",
-    "코딩 테스트 강의",
-    "코딩 테스트/백준/1463_1로 만들기.md",
-    "코딩 테스트/백준/2579_계단 오르기.md",
-    "코딩 테스트/백준/1932_정수 삼각형.md",
-    "자료구조/Doit/14. 깊이 우선 탐색(DFS).md",
-    "코딩 테스트/백준/1149_RGB 거리.md",
-    "코딩 테스트/백준/1912_연속합.md",
-    "코딩 테스트/백준/9461_파도반 수열.md",
-    "코딩 테스트/백준/1904_01타일.md",
-    "Image/Pasted image 20240707205316.png"
+    "코딩 테스트 강의"
   ]
 }
