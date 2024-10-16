@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "서적/이득우의 언리얼 C++/04. 게임 플레이 프레임워크.md",
+                "file": "코딩 테스트 강의/2주차/23_Baek_2870_수학숙제.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7b18a641d7d6a18a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "코딩 테스트 강의/2주차/11_깊이 우선 탐색(DFS).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "서적/이득우의 언리얼 C++/04. 게임 플레이 프레임워크.md",
+                "file": "코딩 테스트 강의/2주차/11_깊이 우선 탐색(DFS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "서적/이득우의 언리얼 C++/04. 게임 플레이 프레임워크.md",
+                "file": "코딩 테스트 강의/2주차/11_깊이 우선 탐색(DFS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "서적/이득우의 언리얼 C++/04. 게임 플레이 프레임워크.md"
+                "file": "코딩 테스트 강의/2주차/11_깊이 우선 탐색(DFS).md"
               }
             }
           }
@@ -160,10 +173,25 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "e639b7a469ce4d63",
+  "active": "7b18a641d7d6a18a",
   "lastOpenFiles": [
-    "서적/이득우의 언리얼 C++/01. 액터설계.md",
+    "포트폴리오/Unreal5 작업/완성.md",
+    "포트폴리오/Unreal5 작업/작업 06.md",
+    "코딩 테스트 강의/2주차/29_Baek_4949_균형잡힌 세상.md",
+    "코딩 테스트 강의/2주차/28_Baek_9012_괄호.md",
+    "코딩 테스트 강의/2주차/27_Baek_1436_영화감독 숌.md",
+    "코딩 테스트 강의/2주차/26_Baek_2852_NBA 농구.md",
+    "코딩 테스트 강의/2주차/25_Baek_3474_교수가 된 현우.md",
+    "코딩 테스트 강의/2주차/24_Baek_10709 기상캐스터.md",
+    "코딩 테스트 강의/2주차/23_Baek_2870_수학숙제.md",
+    "코딩 테스트/백준/10844_쉬운 계단 수.md",
+    "코딩 테스트/백준/1976_여행가자.md",
+    "코딩 테스트/백준/1037_약수.md",
+    "코딩 테스트/백준/1010_다리놓기.md",
+    "10709_기상캐스터.md",
     "서적/이득우의 언리얼 C++/04. 게임 플레이 프레임워크.md",
+    "Summary.md",
+    "서적/이득우의 언리얼 C++/01. 액터설계.md",
     "이득우 Unreal C++/Part 01/03_언리얼 C++ 기본 타입과 문자열 처리.md",
     "Study",
     "이득우 Unreal C++/Part 01/02 Unreal C++ 코딩 표준.md",
@@ -179,21 +207,6 @@
     "코딩 테스트 강의/2주차/20_Baek_2828 사과담기 게임.md",
     "코딩 테스트 강의/2주차/19_Baek_1992 쿼드트리.md",
     "코딩 테스트 강의/2주차/18_Baek_2583 영역 구하기.md",
-    "코딩 테스트 강의/2주차/10_연결 컴포넌트.md",
-    "코딩 테스트 강의/2주차/09_맵과 방향 벡터.md",
-    "코딩 테스트 강의/2주차/05_인접 행렬.md",
-    "코딩 테스트 강의/2주차/04_이진 탐색트리(Binary Search Tree).md",
-    "코딩 테스트 강의/2주차/03_이진트리(Binnary Tree).md",
-    "코딩 테스트 강의/2주차/02_트리(Tree).md",
-    "코딩 테스트 강의/1주차/19_Baek_4375 1.md",
-    "코딩 테스트 강의/2주차/15_Baek_2178 미로탐색.md",
-    "코딩 테스트 강의/2주차/13_DFS와 BFS 차이.md",
-    "코딩 테스트 강의/2주차/14_트리순회.md",
-    "코딩 테스트 강의/2주차/17_Baek_2468 안전영역.md",
-    "코딩 테스트 강의/2주차/16_Baek_1012 유기농 배추.md",
-    "코딩 테스트 강의/2주차/11_깊이 우선 탐색(DFS).md",
-    "코딩 테스트 강의/2주차/08_인접 행렬과 인접 리스트의 차이.md",
-    "코딩 테스트 강의/2주차/12_너비 우선 탐색(BFS).md",
     "Image/Pasted image 20240819184215.png",
     "Image/Pasted image 20240819154948.png",
     "Image/Pasted image 20240819184211.png",
