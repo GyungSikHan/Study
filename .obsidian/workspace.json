@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "34_Baek_17298_오큰수.md",
+                "file": "코딩 테스트 강의/3주차/01_완전탐색과 백트래킹.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "34_Baek_17298_오큰수.md",
+                "file": "코딩 테스트 강의/3주차/01_완전탐색과 백트래킹.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "34_Baek_17298_오큰수.md",
+                "file": "코딩 테스트 강의/3주차/01_완전탐색과 백트래킹.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "34_Baek_17298_오큰수.md"
+                "file": "코딩 테스트 강의/3주차/01_완전탐색과 백트래킹.md"
               }
             }
           }
@@ -175,8 +175,10 @@
   },
   "active": "419d26f0dd6a3fbc",
   "lastOpenFiles": [
+    "코딩 테스트 강의/2주차/34_Baek_17298_오큰수.md",
+    "코딩 테스트 강의/3주차/01_완전탐색과 백트래킹.md",
+    "코딩 테스트 강의/3주차",
     "코딩 테스트 강의/2주차/33_Baek_1325_효율적인 해킹.md",
-    "34_Baek_17298_오큰수.md",
     "코딩 테스트 강의/2주차/32_Baek_1068_트리.md",
     "코딩 테스트 강의/2주차/12_너비 우선 탐색(BFS).md",
     "코딩 테스트 강의/2주차/31_Baek_2636_치즈.md",
@@ -195,13 +197,12 @@
     "코딩 테스트/백준/1976_여행가자.md",
     "코딩 테스트/백준/1037_약수.md",
     "코딩 테스트/백준/1010_다리놓기.md",
-    "10709_기상캐스터.md",
+    "코딩 테스트 강의/2주차/10709_기상캐스터.md",
     "서적/이득우의 언리얼 C++/04. 게임 플레이 프레임워크.md",
     "Summary.md",
     "서적/이득우의 언리얼 C++/01. 액터설계.md",
     "이득우 Unreal C++/Part 01/03_언리얼 C++ 기본 타입과 문자열 처리.md",
     "Study",
-    "이득우 Unreal C++/Part 01/02 Unreal C++ 코딩 표준.md",
     "Image/Pasted image 20240830192559.png",
     "Image/Pasted image 20240830193422.png",
     "Image/Pasted image 20240830192701.png",
