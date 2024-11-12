@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DirectX/2주차/06_Projection 변환 행렬.md",
+                "file": "코딩 테스트 강의/3주차/11_Baek_17071_숨바꼭질 5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "06_Projection 변환 행렬"
+              "title": "11_Baek_17071_숨바꼭질 5"
             }
           }
         ]
@@ -179,13 +179,21 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "87566efed935f1aa",
+  "active": "8e2203163d3c59a8",
   "lastOpenFiles": [
+    "[.md",
+    "코딩 테스트 강의/3주차/11_Baek_17071_숨바꼭질 5.md",
+    "코딩 테스트 강의/3주차/12_Baek_14497_주난의 난.md",
+    "코딩 테스트 강의/3주차/13_Baek_3197_백조의 호수.md",
+    "코딩 테스트 강의/3주차/14_Baek_1987_알파벳.md",
+    "코딩 테스트 강의/3주차/10_Baek_13913_숨바꼭질 4.md",
+    "코딩 테스트 강의/3주차/15_Baek_2529_부등호.md",
+    "코딩 테스트 강의/2주차/11_깊이 우선 탐색(DFS).md",
+    "DirectX/2주차/06_Projection 변환 행렬.md",
     "Pasted image 20241112141712.png",
     "Pasted image 20241112141052.png",
     "Pasted image 20241112140749.png",
     "DirectX/2주차/05_View 변환.md",
-    "DirectX/2주차/06_Projection 변환 행렬.md",
     "Pasted image 20241112135108.png",
     "DirectX/2주차/01_행렬 기초.md",
     "Pasted image 20241112134342.png",
@@ -198,7 +206,6 @@
     "DirectX/00_행렬 OT.md",
     "Image/스크린샷 2024-11-11 오후 7.08.06.png",
     "Image/스크린샷 2024-11-11 오후 6.55.58.png",
-    "Image/스크린샷 2024-11-11 오후 7.19.22.png",
     "DirectX/2주차",
     "DirectX/1주차/00_렌더링 파이프라인.md",
     "DirectX/1주차",
@@ -212,13 +219,6 @@
     "오늘의 키워드/가상 메모리.md",
     "포트폴리오/Unreal5 작업/완성.md",
     "---.md",
-    "DirectX/1주차/08_1주차 복습.md",
-    "DirectX/1주차/07_Rasterizer State, Sampler State, Blend State.md",
-    "DirectX/1주차/06_Constant Buffer.md",
-    "DirectX/1주차/05_텍스처와 UV.md",
-    "DirectX/1주차/04_삼각형 그리기.md",
-    "DirectX/1주차/03_장치 초기화.md",
-    "코딩 테스트 강의/3주차/08_Baek_16637_괄호 추가하기.md",
     "DirectX/무제 폴더",
     "코딩 테스트 강의/4주차",
     "코딩 테스트 강의/8주차",

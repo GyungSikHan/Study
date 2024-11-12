@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "11_Baek_17071_숨바꼭질 5",
+      "path": "코딩 테스트 강의/3주차/11_Baek_17071_숨바꼭질 5.md"
+    },
+    {
+      "basename": "[",
+      "path": "[.md"
+    },
+    {
+      "basename": "12_Baek_14497_주난의 난",
+      "path": "코딩 테스트 강의/3주차/12_Baek_14497_주난의 난.md"
+    },
+    {
+      "basename": "13_Baek_3197_백조의 호수",
+      "path": "코딩 테스트 강의/3주차/13_Baek_3197_백조의 호수.md"
+    },
+    {
+      "basename": "14_Baek_1987_알파벳",
+      "path": "코딩 테스트 강의/3주차/14_Baek_1987_알파벳.md"
+    },
+    {
+      "basename": "10_Baek_13913_숨바꼭질 4",
+      "path": "코딩 테스트 강의/3주차/10_Baek_13913_숨바꼭질 4.md"
+    },
+    {
+      "basename": "15_Baek_2529_부등호",
+      "path": "코딩 테스트 강의/3주차/15_Baek_2529_부등호.md"
+    },
+    {
+      "basename": "11_깊이 우선 탐색(DFS)",
+      "path": "코딩 테스트 강의/2주차/11_깊이 우선 탐색(DFS).md"
+    },
+    {
       "basename": "06_Projection 변환 행렬",
       "path": "DirectX/2주차/06_Projection 변환 행렬.md"
     },
@@ -167,38 +199,6 @@
     {
       "basename": "12. Grid 그리기",
       "path": "DirectX/무제 폴더/12. Grid 그리기.md"
-    },
-    {
-      "basename": "11.Index Buffer",
-      "path": "DirectX/무제 폴더/11.Index Buffer.md"
-    },
-    {
-      "basename": "07. 사각형 그리기",
-      "path": "DirectX/무제 폴더/07. 사각형 그리기.md"
-    },
-    {
-      "basename": "04. Vertex",
-      "path": "DirectX/무제 폴더/04. Vertex.md"
-    },
-    {
-      "basename": "Pasted image 20241106095022",
-      "path": "Image/Pasted image 20241106095022.png"
-    },
-    {
-      "basename": "Pasted image 20241106094955",
-      "path": "Image/Pasted image 20241106094955.png"
-    },
-    {
-      "basename": "03_언리얼 C++ 기본 타입과 문자열 처리",
-      "path": "이득우 Unreal C++/Part 01/03_언리얼 C++ 기본 타입과 문자열 처리.md"
-    },
-    {
-      "basename": "07_Baek_12869_뮤탈리스크",
-      "path": "코딩 테스트 강의/3주차/07_Baek_12869_뮤탈리스크.md"
-    },
-    {
-      "basename": "06_Baek_4179_불!",
-      "path": "코딩 테스트 강의/3주차/06_Baek_4179_불!.md"
     }
   ],
   "omittedPaths": []
